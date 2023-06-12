@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-placeholder: 82 100 100;
+    --color-blue: 46 117 180;
+    --color-grey: 102 102 102;
+    --color-dark-grey: 75 75 75;
+    --color-light-grey: 236 240 241;
+    --color-light-secondary-grey: 245 245 245;
+    --color-light-tertiary-grey: 200 200 200;
+  }
+}

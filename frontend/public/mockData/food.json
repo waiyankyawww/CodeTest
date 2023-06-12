@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Ripe Blue Grape",
+    "type": "Packet",
+    "images": ["grape.png", "grape2.png", "grape3.png", "grape4.png"]
+  },
+  {
+    "id": "2",
+    "name": "Spinach",
+    "type": "Packet",
+    "images": ["Untitled-6.png"]
+  },
+  {
+    "id": "3",
+    "name": "Salmon",
+    "type": "Packet",
+    "images": ["salmon.png"]
+  },
+  {
+    "id": "4",
+    "name": "Capsicum",
+    "type": "Packet",
+    "images": ["capsicum.png"]
+  },
+  {
+    "id": "5",
+    "name": "Tomato",
+    "type": "Packet",
+    "images": ["tomato.png"]
+  },
+  {
+    "id": "6",
+    "name": "Broccoli",
+    "type": "Packet",
+    "images": ["Untitled-5.png"]
+  }
+]

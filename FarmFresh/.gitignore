@@ -1,0 +1,28 @@
+﻿# Ignore Visual Studio generated files
+.vs
+bin
+obj
+
+# Ignore NuGet package directories
+packages/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+
+# Ignore generated files from Entity Framework Core
+*.Designer.cs
+*.resx
+*ModelSnapshot.cs
+*ModelSnapshot.cs.backup
+
+# Ignore Entity Framework Core database files
+*.mdf
+*.ldf
+
+# Ignore user-specific files
+*.userprefs
+
+# Ignore macOS specific files
+.DS_Store

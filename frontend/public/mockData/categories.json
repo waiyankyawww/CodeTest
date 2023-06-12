@@ -1,0 +1,13 @@
+[
+  {
+    "title": "On sales!",
+    "subMenu": ["Latest", "Past Offers", "Future Offers"]
+  },
+  { "title": "New" },
+  { "title": "Shop by Store" },
+  { "title": "Fruit and Veg" },
+  { "title": "Meat & Seafood" },
+  { "title": "Dairy and Chilled" },
+  { "title": "Bakery" },
+  { "title": "Beverages" }
+]

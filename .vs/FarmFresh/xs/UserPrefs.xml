@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{7EEC0DCA-824D-47C4-A20B-C31D056E84AE}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FarmFresh PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FarmFresh/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="FarmFresh/Models/Product.cs" />
+      <File FileName="FarmFresh/appsettings.json" />
+      <File FileName="FarmFresh/Properties/launchSettings.json" />
+      <File FileName="FarmFresh/Program.cs" />
+      <File FileName="FarmFresh/appsettings.Development.json" />
+      <File FileName="FarmFresh/Controllers/ProductController.cs" Line="136" Column="1" />
+      <File FileName="FarmFresh/Views/Product/Delete.cshtml" />
+      <File FileName="FarmFresh/Views/Product/Create.cshtml" />
+      <File FileName="FarmFresh/Views/Product/Edit.cshtml" />
+      <File FileName="FarmFresh/Views/Product/Index.cshtml" />
+      <File FileName="FarmFresh/Views/Product/Details.cshtml" />
+      <File FileName="FarmFresh/Controllers/ApiController.cs" />
+      <File FileName="FarmFresh/Views/Shared/Error.cshtml" />
+      <File FileName="FarmFresh/Models/ErrowViewModel.cs" />
+      <File FileName="FarmFresh/Product.db" />
+      <File FileName="FarmFresh/Controllers/AuthController.cs" />
+      <File FileName="FarmFresh/Models/LogIn.cs" />
+      <File FileName="FarmFresh/Models/Register.cs" />
+      <File FileName="FarmFresh/Views/Shared/_Layout.cshtml.css" />
+      <File FileName="FarmFresh/Views/Shared/_Layout.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FarmFresh" expanded="True" selected="True">
+            <Node name="FarmFresh" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
