@@ -10,7 +10,7 @@ namespace FarmFresh.Models
     public class Product
     {
         [Key]
-        public Guid ID { get; set; } // Guid(128 bits) take more space than int (32)
+        public int ID { get; set; } // Guid(128 bits) take more space than int (32)
         [Required]
         public required string ProductName { get; set; }
         public string? ProductPhoto { get; set; }
@@ -19,12 +19,12 @@ namespace FarmFresh.Models
         public bool OnSale { get; set; }
         public bool ShopByStore { get; set; }
         public string? CreatedDate { get; set; }
-        //public int Status { get; set; }
+        public bool Status { get; set; } // Product sold out or not
 
 
         //public void Configure(IApplicationBuilder app)
         //{
-            
+
         //}
     }
 }

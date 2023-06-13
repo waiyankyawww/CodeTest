@@ -14,7 +14,7 @@ namespace FarmFresh.DAL
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Product>().ToTable("Products");
+            modelBuilder.Entity<Product>().ToTable("Product");
             //modelBuilder.Entity<Product>().Property(t => t.ProductName).IsRequired(); // Product Name required
             base.OnModelCreating(modelBuilder);
             // seeding data to test

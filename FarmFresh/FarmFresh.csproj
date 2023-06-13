@@ -28,9 +28,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="DAL\" />
+    <None Remove="Models\Repository\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DAL\" />
+    <Folder Include="Models\Repository\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="Views\Login.cshtml" />
