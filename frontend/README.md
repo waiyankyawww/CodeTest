@@ -3,9 +3,9 @@
 - The frontend included with three main screens. (Landing Page, Promotional Page, Shopping Page)
 - As requested from Front End design requirements are added
 - All the User Interactions (1, 2, 3) from the requirement are included
-- Since I could not connect the backend API with the frontend MockData folder is added to test
+- Since I could not connect the backend API with the frontend, MockData folder is added to test
 
-First install the required packages and run the program
+First, install the required packages and run the program
 ```
 npm i 
 npm run dev
