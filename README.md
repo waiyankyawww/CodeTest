@@ -14,4 +14,4 @@
 
 ### 1.FarmFresh (Asp.net Core MVC) (Backend)
  - I used Entity Framework (Code First) with generic repository pattern. 
- - API is developed and the API collection for postman file is also added. However,the authentication is still implementing.
+ - API is developed and the API collection for postman file is also added. The authentication is still implementing.
