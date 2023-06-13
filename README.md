@@ -12,6 +12,6 @@
 ### 1.FarmFresh (Vue.js) (Frontend)
  - Frontend is implemented with Vue.js
 
-### 1.FarmFresh (Asp.net Core MVC) (Backend)
+### 2.FarmFresh (Asp.net Core MVC) (Backend)
  - I used Entity Framework (Code First) with generic repository pattern. 
  - API is developed and the API collection for postman file is also added. The authentication is still implementing.
