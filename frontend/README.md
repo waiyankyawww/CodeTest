@@ -2,6 +2,7 @@
 
 - The frontend included with three main screens. (Landing Page, Promotional Page, Shopping Page)
 - As requested from Front End design requirements are added
+- All the User Interactions (1, 2, 3) from the requirement are included
 - Since I could not connect the backend API with the frontend MockData folder is added to test
 
 First install the required packages and run the program
@@ -31,7 +32,6 @@ npm run dev
 
 
 - Can review the added items from the cart and delete them back
-- All the User Interactions (1, 2, 3) from the requirement are included
 ![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.19.26.png)
 ![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.19.38.png)
 ![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.19.48.png)
