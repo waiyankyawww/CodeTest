@@ -25,14 +25,13 @@ npm run dev
 - Select the item they want and see the shadow underneath
 ![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.18.05.png)
 
-  
+
 - Select the item they want and look for the detailed description and add the desired quantities to the cart
+![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.19.00.png)
+
+
 - Can review the added items from the cart and delete them back
 - All the User Interactions (1, 2, 3) from the requirement are included
-
-![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.18.47.png)
-![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.19.00.png)
-![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.19.14.png)
 ![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.19.26.png)
 ![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.19.38.png)
 ![Alt Text](https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.19.48.png)
