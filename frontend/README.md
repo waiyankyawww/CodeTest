@@ -11,4 +11,4 @@ npm i
 npm run dev
 ```
 
-![Uploading Screenshot 2023-06-14 at 02.16.10.png…]()
+https://github.com/waiyankyawww/CodeTest/blob/master/Frontend%20ScreenShots/Screenshot%202023-06-14%20at%2002.17.24.png
