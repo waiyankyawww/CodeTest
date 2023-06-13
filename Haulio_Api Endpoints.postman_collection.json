@@ -1,0 +1,147 @@
+{
+	"info": {
+		"_postman_id": "4538a016-c0cc-4583-9a93-0d9ce0d8f941",
+		"name": "Api Endpoints",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "12450561"
+	},
+	"item": [
+		{
+			"name": "Get Requests",
+			"item": [
+				{
+					"name": "Get all products",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5082/api/Product",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5082",
+							"path": [
+								"api",
+								"Product"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get a specific product",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5082/api/Product/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5082",
+							"path": [
+								"api",
+								"Product",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Post Requests",
+			"item": [
+				{
+					"name": "Create a product",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n      \n        \"ProductName\" : \"Product 3\",\n        \"ProductPhoto\": \" Photo 3\",\n        \"ProductType\" : \"Type 3\",\n        \"PackingType\" : \" Pack Type 3\",\n        \"OnSale\" : true,\n        \"ShopByStore\" : false,\n        \"CreatedDate\" : \"14/6/2023\",\n        \"Status\" : true\n}"
+						},
+						"url": {
+							"raw": "http://localhost:5082/api/Product",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5082",
+							"path": [
+								"api",
+								"Product"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Put Requests",
+			"item": [
+				{
+					"name": "Update a product",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n      \n        \"ProductName\" : \"Product 3\",\n        \"ProductPhoto\": \" Photo 3\",\n        \"ProductType\" : \"Type 3\",\n        \"PackingType\" : \" Pack Type 3\",\n        \"OnSale\" : true,\n        \"ShopByStore\" : false,\n        \"CreatedDate\" : \"14/6/2023\",\n        \"Status\" : true\n}"
+						},
+						"url": {
+							"raw": "http://localhost:5082/api/Product/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5082",
+							"path": [
+								"api",
+								"Product",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Delete Requests",
+			"item": [
+				{
+					"name": "Delete a product",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5082/api/Product/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5082",
+							"path": [
+								"api",
+								"Product",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
