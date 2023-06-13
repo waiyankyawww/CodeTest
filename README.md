@@ -1,8 +1,8 @@
 # FarmFresh
 
-## Frontend - https://github.com/waiyankyawww/CodeTest/tree/master/frontend
+### Frontend - https://github.com/waiyankyawww/CodeTest/tree/master/frontend
 
-## Backend - https://github.com/waiyankyawww/CodeTest/tree/master/FarmFresh
+### Backend - https://github.com/waiyankyawww/CodeTest/tree/master/FarmFresh
 
 - I tried all my best to build this FarmFresh project within the period of my code test. Since, I do not have the knowledge of Vue.js and ASP.Net core, I had to take some time to learn both of the technologies and did the best.
 - FarmFresh Frontend is implemented with Vue.js and Backend with ASP.Net Core (MVC). However, I could not been able to connect the Frontend and Backend API due to my time limit.
