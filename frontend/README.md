@@ -4,5 +4,7 @@
 - Parallax Scrolling is added for the User Experience
 - As requested from Front End design requirements are added
 
-```npm i 
-npm run dev```
+```
+npm i 
+npm run dev
+```
